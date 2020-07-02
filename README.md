@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Build a Movie APP With React
+
+Learn how to code an interactive Movie Database app using ReactJS. We look into the implementations of using an API to get information about movies and display them on screen using react components. We also look into hooks such as the useState hook to create a functional state.
+
+## Link Demo
+
+
 
 ## Available Scripts
 
@@ -66,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+"# react-movie-app" 
