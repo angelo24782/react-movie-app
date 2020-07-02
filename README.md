@@ -4,7 +4,7 @@ Learn how to code an interactive Movie Database app using ReactJS. We look into 
 
 ## Link Demo
 
-
+https://react-movies-database.netlify.app/
 
 ## Available Scripts
 
