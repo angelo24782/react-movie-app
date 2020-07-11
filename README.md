@@ -4,6 +4,10 @@ Learn how to code an interactive Movie Database app using ReactJS. We look into 
 
 ## Link Demo
 
+https://find-movie-react-app.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43376e6e-44c2-4a81-aa4d-3af575be2385/deploy-status)](https://app.netlify.com/sites/find-movie-react-app/deploys)
+
 
 ## Available Scripts
 
